@@ -1,0 +1,2 @@
+
+>pyinstaller dendentaku.py --onefile --noconsole --distpath DIR
